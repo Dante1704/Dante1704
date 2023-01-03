@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Mi nombre es Dante Nicolas Kaddarian</h1>
 
-<h3 align="left">Acerca de mi</h3>
+<h3 align="left">👨🏻‍💻 Acerca de mi</h3>
 
 <p>Soy un <strong>Full-Stack Web Developer</strong> que le gusta tanto el diseño visual como la parte más logica del desarrollo web. Es por eso que me gusta tanto el front-end como el back-end. Me gusta mucho pensar y analizar problemanticas.</p>
 <p>
@@ -14,17 +14,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **React en profundidad y MongoDB**
 
-<h3>📄 Podés ver mi experiencia en</h3>
-<p>(https://mnf.red/cac825b3-c1e8-4f80-b549-3e4fddac598a/classic)</p>
+<h3>📄 Podés ver mi experiencia en: https://mnf.red/cac825b3-c1e8-4f80-b549-3e4fddac598a/classic</h3>
 
 <h3 align="left">Redes de Contacto</h3>
-<div align="left">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://linkedin.com/in/https://www.linkedin.com/in/dante-nicolas-kaddarian-39696a131/))
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dante.nkaddarian@gmail.com)
-  
-</div>
-<span>📫 dante.nkaddarian@gmail.com</span>
-<span align="left">
+<p>📫 dante.nkaddarian@gmail.com</p>
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dante-nicolas-kaddarian-39696a131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dante-nicolas-kaddarian-39696a131/" height="30" width="40" /></a>
-</span>
+</p>
