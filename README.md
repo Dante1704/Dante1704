@@ -14,7 +14,7 @@
 
 🌱 Actualmente estoy aprendiendo **React en profundidad y MongoDB**
 
-<h3>📄 Podés ver mi experiencia en: https://mnf.red/cac825b3-c1e8-4f80-b549-3e4fddac598a/classic</h3>
+<h3>📄 Podés ver mi experiencia aqui: https://mnf.red/cac825b3-c1e8-4f80-b549-3e4fddac598a/classic</h3>
 
 <h3 align="left">Redes de Contacto</h3>
 
