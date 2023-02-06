@@ -5,7 +5,7 @@
 <p>Soy un <strong>Full-Stack Web Developer</strong> que le gusta tanto el diseño visual como la parte más logica del desarrollo web. Es por eso que me gusta tanto el front-end como el back-end. Me gusta mucho pensar y analizar problemáticas.</p>
 <p>
 
-<p>Toda mi vida había sido una persona individualista, asique comence este camino solo. Con el paso del tiempo, sentí la necesidad de compartir esto con gente que también estuviera programando, así es como descubrí soyHenry y el trabajo en equipo. Y me encantó!</p>
+<p>Toda mi vida había sido una persona individualista, asique comence este camino solo. Con el paso del tiempo, sentí la necesidad de compartir esto con gente que también estuviera programando, así es como descubrí soyHenry y trabajar en equipo en desarrollo web. Y me encantó!</p>
 
 <p>Pasé por varias industrias como la mensajería, el transporte y la administración. Pero cuando descubrí el desarrollo web, sentí que este era mi lugal. Acá hay dificultades y frustraciones, pero no hay nada como encotrar la solución a un problema difícil! Es realmente muy satisfactorio.</p>
 
