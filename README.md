@@ -20,5 +20,5 @@
 
 <p>📫 <a href='mailto:work.dantekaddarian@gmail.com'>work.dantekaddarian@gmail.com</a></p>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil de LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil de LinkedIn" height="30" width="40" /></a>
 </p>
