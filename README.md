@@ -14,11 +14,11 @@
 
 🌱 Actualmente estoy aprendiendo **React en profundidad, Typescript y un poquito mas adelante aprendere NextJs**
 
-<h3>📄 Podés ver mi experiencia aqui: https://mnf.red/cac825b3-c1e8-4f80-b549-3e4fddac598a/classic</h3>
+<h3>📄 Podés ver mi experiencia aqui: https://drive.google.com/file/d/1pheAatp0m_lCS9GhDZWzwtOLjbLEul34/view?usp=share_link</h3>
 
 <h3 align="left">Redes de Contacto</h3>
 
-<p>📫 <a href='mailto:dante.nkaddarian@gmail.com'>dante.nkaddarian@gmail.com</a></p>
+<p>📫 <a href='mailto:work.dantekaddarian@gmail.com'>work.dantekaddarian@gmail.com</a></p>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dante-nicolas-kaddarian-39696a131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dante-nicolas-kaddarian-39696a131/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil de LinkedIn" height="30" width="40" /></a>
 </p>
