@@ -2,7 +2,7 @@
 
 <h3 align="left">👨🏻‍💻 Acerca de mi</h3>
 
-<p>Soy un <strong>Full-Stack Web Developer</strong> que le gusta tanto el diseño visual como la parte más logica del desarrollo web. Es por eso que me gusta tanto el front-end como el back-end. Me gusta mucho pensar y analizar problemáticas.</p>
+<p>Soy un <strong>Full-Stack Web Developer</strong> que le gusta tanto el diseño visual como la parte más logica del desarrollo web. Es por eso que me gusta tanto el front-end como el back-end. Me gusta mucho analizar y resolver problemáticas relacionadas a la tecnología.</p>
 <p>
 
 <p>Toda mi vida había sido una persona individualista, asique comence este camino solo. Con el paso del tiempo, sentí la necesidad de compartir esto con gente que también estuviera programando. Así es como me gradué de un bootcamp de programación aprendiendo las tecnologiías las modernas y también, los desafios y las cosas grandes que se pueden lograr cuando uno trabaja en equipo.</p>
