@@ -34,8 +34,9 @@
 <h3 align="left">Redes de Contacto</h3>
 
 <div>
-  📫 
-  <a href='mailto:work.dantekaddarian@gmail.com'>work.dantekaddarian@gmail.com</a> <a href="https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank">
+   
+  <a href='mailto:work.dantekaddarian@gmail.com'>📫</a> 
+  <a href="https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil de LinkedIn" height="30" width="40" />
   </a>
 </div>
