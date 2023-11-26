@@ -10,22 +10,22 @@
 </p>
 <p>
   Mi stack tecnológico incluye:
-  HTML5
-  CSS3
-  Tailwind
-  Bootstrap
-  JavaScript
-  React
-  React Hooks
-  React Native
-  Nodejs
-  Next
-  PostgreSQL
-  MongoDB
-  Git
-  Figma
-  SEO
-  Responsive Design
+  HTML5 |
+  CSS3 |
+  Tailwind |
+  Bootstrap |
+  JavaScript |
+  React |
+  React Hooks |
+  React Native |
+  Nodejs |
+  Nextjs |
+  PostgreSQL |
+  MongoDB |
+  Git |
+  Figma |
+  SEO |
+  Responsive Design |
   REST APIs
 </p>
 
