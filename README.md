@@ -36,7 +36,7 @@
 <div>
    
   <a href='mailto:work.dantekaddarian@gmail.com'>📫</a> 
-  <a style="text-decoration: none" href="https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank">
+  <a style="text-decoration:none" href="https://www.linkedin.com/in/dante-nicolas-kaddarian/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfil de LinkedIn" height="30" width="40" />
   </a>
 </div>
